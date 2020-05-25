@@ -3,7 +3,7 @@
 		  font-family: Arial, Helvetica, sans-serif;
 			margin: 0;
 			background-color:AliceBlue;
-color: #f2f2f2;
+color: #f2f2f2;PowderBlueAliceBlueSeashellCornsilk
 		} 
 		.topmenu{
 			width: 100%;
@@ -48,6 +48,7 @@ color: #f2f2f2;
 		
 		.news {
 	background-color:#808080;
+	margin-left: 5px;
 	margin-left:8%;
 	margin-top:2%;
 	width:20%;
@@ -62,6 +63,7 @@ color: #f2f2f2;
 	
 	.news2 {
 	background-color:#808080;
+	margin-left: 5px;
 	margin-left:10%;
 	margin-top:2%;
 	width:20%;
@@ -76,6 +78,7 @@ color: #f2f2f2;
 
 	.news3 {
 	background-color:#808080;
+	margin-left: 5px;
 	margin-left:10%;
 	margin-top:2%;
 	width:20%;
@@ -227,4 +230,9 @@ background:#C0C0C0;
 	margin-left:10%;
 	font-family:Arial, Helvetica, sans-serif;
 font-size:xx-large;
-color:black;
+color:black;}
+.align {
+	 	 display:block;
+	 	 margin:auto;
+	 	 border:thin black double
+}
